@@ -67,4 +67,5 @@ wincertstore==0.2
 zipp==3.4.0
 flask
 jsonify
+requests
 gunicorn
