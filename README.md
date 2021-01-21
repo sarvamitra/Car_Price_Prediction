@@ -20,7 +20,7 @@
 ## About The Project
 <p align="center">
     <a href="https://carprizpred.herokuapp.com">
-        <img src="images/prj_home.PNG" height="35%" width="50%">
+        <img src="https://raw.githubusercontent.com/sarvamitra/Car_Price_Prediction/main/prj_home.png.PNG" height="35%" width="50%">
     </a>
 </p>
 This project uses <a href="https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv">vehicle dataset</a> from cardekho to predict car price.
