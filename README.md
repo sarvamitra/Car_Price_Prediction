@@ -85,7 +85,7 @@ Application link : https://carpricesprediction757.herokuapp.com/
 
 ## Contact
 
-Raj Praveen Pradhan - [LinkedIn](https://in.linkedin.com/in/sarvamitraa)
+Sarvamitra A - [LinkedIn](https://in.linkedin.com/in/sarvamitraa)
 
 Project Link: [https://github.com/sarvamitra/Car_Price_Prediction](https://github.com/sarvamitra/Car_Price_Prediction)
 
