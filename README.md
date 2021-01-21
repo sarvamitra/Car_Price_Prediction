@@ -36,7 +36,6 @@ Dataset contains information about used cars listed on www.cardekho.com.
 
 ### Tools used
 Following are the tools/frameworks used in developing the application:
-* [CSS](https://en.wikipedia.org/wiki/CSS)
 * [Python](https://www.python.org/)
 * [Flask](https://palletsprojects.com/p/flask/)
 * [HTML](https://en.wikipedia.org/wiki/HTML)
@@ -87,11 +86,11 @@ After model selection, the web application is developed using `flask` which is a
 Below are few snapshots of application in use:
 * Step 1 Filling attributes related to car
   <p align="center">
-    <img src="https://raw.githubusercontent.com/rppradhan08/Car_Price_Prediction/master/images/step_1.PNG" height="300px">
+    <img src="https://raw.githubusercontent.com//Car_Price_Prediction/master/images/step_1.PNG" height="300px">
   </p>
 * Step 2 Displaying predicted cost 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/rppradhan08/Car_Price_Prediction/master/images/step_2.PNG" height="100px">
+    <img src="https://raw.githubusercontent.com//Car_Price_Prediction/master/images/step_2.PNG" height="100px">
   </p>
 
 ### Model Deployment
