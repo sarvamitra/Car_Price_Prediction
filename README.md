@@ -9,7 +9,6 @@
   - [Libraries](#libraries)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
-  - [Data Analysis and Model Selection](#data-analysis-and-model-selection)
   - [Application Development](#application-development)
   - [Model Deployment](#model-deployment)
 - [Contact](#contact)
