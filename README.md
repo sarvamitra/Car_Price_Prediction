@@ -62,22 +62,6 @@ To install any of the aforementioned libraries, below command can be written in 
 pip install <package_name>
 ```
 
-### Data Analysis and Model Selection
-
-Refer `Car_Price_Prediction.ipynb` to find details regarding data analysis and model selection.
-
-To check model performance, `Residual plot` and scatter plot between `y_test`-`y_pred` are used.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/rppradhan08/Car_Price_Prediction/master/images/resuidual_plot.png">
-</p>
-
-Below are the final metrics obtained for various models that were considered in analysis.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/rppradhan08/Car_Price_Prediction/master/images/model_metrics.PNG" height="150px">
-</p>
-
 
 ### Application Development
 
@@ -98,3 +82,10 @@ Below are few snapshots of application in use:
 Model is deployed on `heroku` which is a cloud based PaaS. 
 
 Application link : https://carpricesprediction757.herokuapp.com/
+
+## Contact
+
+Raj Praveen Pradhan - [LinkedIn](https://in.linkedin.com/in/sarvamitraa)
+
+Project Link: [https://github.com/sarvamitra/Car_Price_Prediction](https://github.com/sarvamitra/Car_Price_Prediction)
+
